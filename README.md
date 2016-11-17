@@ -3,6 +3,8 @@
 ### Object Oriented Programming
 
 * Encapsulation 
+    * Class
+    * Object
 * Inheritance
 * Abstraction
 * Polymorphism
