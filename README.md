@@ -1,10 +1,12 @@
 # Java
 
 ### Object Oriented Programming
+
 * Encapsulation 
 * Inheritance
 * Abstraction
 * Polymorphism
+
 ### String Handling
 ### Exception Handling
 ### Multithreading
