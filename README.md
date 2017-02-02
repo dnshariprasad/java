@@ -4,7 +4,7 @@
 
 * Encapsulation 
     * Class
-    * Object
+    * [Object](https://github.com/dnshariprasad/java/wiki/Object)
 * Inheritance
 * Abstraction
 * Polymorphism
